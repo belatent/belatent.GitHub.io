@@ -1,16 +1,16 @@
-# Site settings
-title: 读立写生
+﻿# Site settings
+title: Difan's Place
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "Home"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://beletent.xyz"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: "Belatnet"
+  email: avalonzdf@gmail.com
+  bio: "Difan's Place"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
