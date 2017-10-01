@@ -12,11 +12,11 @@
   </header>
   {% include sidebar-nav-links.html %}
 
-  {% if site.version %}
+  {% if site.version != "1.0.0" %}
     <span class="site-version">Currently v{{ site.version }}</span>
   {% endif %}
 
-  <br> 
+  <br>
 
   {% comment %}{% include sidebar-icon-links.html %}{% endcomment %}
   {% include copyright.html %}
